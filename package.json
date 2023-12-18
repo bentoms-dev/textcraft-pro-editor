@@ -1,0 +1,29 @@
+{
+    "name": "textcraft-pro-editor",
+    "version": "1.0.0",
+    "description": "A rich text editor React component with a Material Design-inspired theme.",
+    "main": "src/TextCraftProEditor.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["react", "rich text editor", "material design"],
+    "author": "Ben Toms",
+    "license": "MIT",
+    "dependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "prop-types": "^15.7.2"
+    },
+    "peerDependencies": {
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bentoms-dev/textcraft-pro-editor/"
+      },
+      "bugs": {
+        "url": "https://github.com/bentoms-dev/textcraft-pro-editor/issues"
+      },
+      "homepage": "https://github.com/bentoms-dev/textcraft-pro-editor/blob/master/README.md"
+}
